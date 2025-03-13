@@ -1,0 +1,6 @@
+Enter a whole number greater then 2 to be tested for prime: 8
+The number entered is not prime.
+Enter yes if you would like to enter another number: yes
+Enter a whole number greater then 2 to be tested for prime: 19
+The number entered is prime.
+Enter yes if you would like to enter another number: no

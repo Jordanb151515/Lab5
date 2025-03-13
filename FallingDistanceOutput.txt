@@ -1,0 +1,14 @@
+How many seconds would you like to compute? 10
+
+Time(secs)	Distance(m)
+================================
+1 s		4.9 m
+2 s		19.6 m
+3 s		44.1 m
+4 s		78.4 m
+5 s		122.5 m
+6 s		176.4 m
+7 s		240.1 m
+8 s		313.6 m
+9 s		396.9 m
+10 s		490.0 m
